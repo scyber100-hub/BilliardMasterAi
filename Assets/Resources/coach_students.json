@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "st_jh", "name": "지훈", "level": "Advanced", "note": "대회 준비, 리스크 관리" },
+    { "id": "st_ms", "name": "민수", "level": "Intermediate", "note": "각도 루틴 선호" },
+    { "id": "st_sy", "name": "선영", "level": "Coach", "note": "레슨 샘플 시연" }
+  ]
+}

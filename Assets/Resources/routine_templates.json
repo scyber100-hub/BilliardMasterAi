@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "tmpl_angles_adv",
+      "title": "패턴 템플릿: 고급 각도",
+      "subtitle": "장단장·단장단 변형 케이스",
+      "tags": ["각도", "고급", "3쿠션"],
+      "durationMin": 15,
+      "difficulty": "Hard",
+      "focus": "다양한 진입각 대응",
+      "drills": ["장단장 변형 5세트", "단장단 변형 5세트"],
+      "imageResource": null
+    },
+    {
+      "id": "tmpl_speed_mid",
+      "title": "패턴 템플릿: 스피드 컨트롤 중급",
+      "subtitle": "거리별 속도 조절",
+      "tags": ["속도", "컨트롤"],
+      "durationMin": 10,
+      "difficulty": "Normal",
+      "focus": "거리 예측",
+      "drills": ["단거리/중거리/장거리 3단계"],
+      "imageResource": null
+    },
+    {
+      "id": "tmpl_spin_basic",
+      "title": "패턴 템플릿: 스핀 기본",
+      "subtitle": "좌/우 회전 영향 이해",
+      "tags": ["스핀", "기본"],
+      "durationMin": 10,
+      "difficulty": "Easy",
+      "focus": "스로우 감각",
+      "drills": ["좌/우 스핀 비교 10회"],
+      "imageResource": null
+    }
+  ]
+}
